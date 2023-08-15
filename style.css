@@ -1,0 +1,64 @@
+.container{
+    background-color: olivedrab;
+    width: 230px;
+    text-align: center;
+    align-items: center;
+    margin: auto;
+    margin-top: 0px;
+    padding-bottom: 16px;
+    padding-top: 0px;
+    display: grid;
+    grid-gap: 8px 18px;
+    border-radius: 5px;
+    box-shadow: 1px 2px 5px;
+}
+
+.header{
+
+    color: red;
+    background-color: darkkhaki;
+    border-radius: 5px;
+    height: 3.5rem;
+    
+}
+
+.inputbtn{
+    width: 98%;
+    height: 3.5rem;
+    font-size: 20px;
+    background-color: aliceblue;
+
+}
+.line{
+    
+
+}
+.btn{
+    font-size: 20px;
+    padding: 10px 15px;
+    margin: 1px 2px 0px 1px;
+    box-shadow: 1px 2px 5px;
+    background-color: darkblue;
+    
+}
+.btn1{
+    font-size: 22px;
+    padding: 10px 17px;
+    margin: 1px 2px 0px 1px;
+    box-shadow: 1px 2px 5px;
+    margin-top: 0.5rem;
+    background-color:rgba(4, 45, 73, 0.842);
+    font-weight: bold;
+    color: white;
+    
+}
+.btn:hover{
+    
+    background-color: aqua;
+    font-weight: bold;
+}
+.btn1:hover{
+    
+    background-color:coral;
+    color: black;
+}
